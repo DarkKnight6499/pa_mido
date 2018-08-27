@@ -28,14 +28,14 @@
             16 - App switch
             32 - Camera
          For example, a device with Home, Back and Menu keys would set this
-         config to 7. -->
-    <integer name="config_deviceHardwareKeys">19</integer>
+         config to 7. 
+    <integer name="config_deviceHardwareKeys">19</integer> -->
 
-    <!-- Internal default to navigation bar value -->
-    <bool name="config_defaultToNavigationBar">false</bool>
+    <!-- Internal default to navigation bar value 
+    <bool name="config_defaultToNavigationBar">false</bool> -->
 
-    <!-- Gestures' key codes. If the gesture is not supported set it to 0. -->
-    <integer name="config_doubleTapKeyCode">143</integer>
+    <!-- Gestures' key codes. If the gesture is not supported set it to 0.
+    <integer name="config_doubleTapKeyCode">143</integer> -->
 
     <!-- Default settings for gestures
              0 - Disabled
@@ -46,12 +46,12 @@
              5 - Next music
              6 - Previous music
              7 - Open camera
-             8 - Open dialer -->
-    <integer name="config_doubleTapDefault">1</integer>
+             8 - Open dialer 
+    <integer name="config_doubleTapDefault">1</integer> -->
 
-    <!-- Whether to intercept inputs on screen off -->
-    <bool name="config_enableKeyHandler">true</bool>
+    <!-- Whether to intercept inputs on screen off 
+    <bool name="config_enableKeyHandler">true</bool> -->
 
-    <!-- Whether notify fingerprint client of successful cancelled authentication -->
-    <bool name="config_notifyClientOnFingerprintCancelSuccess">true</bool>
+    <!-- Whether notify fingerprint client of successful cancelled authentication 
+    <bool name="config_notifyClientOnFingerprintCancelSuccess">true</bool> -->
 </resources>

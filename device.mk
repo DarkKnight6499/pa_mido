@@ -287,3 +287,8 @@ PRODUCT_BOOT_JARS += \
 # Offmode charger
 PRODUCT_PACKAGES += \
     charger_res_images
+
+
+# HIDL PRODUCT_PACKAGES += \
+    android.hidl.base@1.0 \
+    android.hidl.manager@1.0
