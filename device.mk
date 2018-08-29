@@ -112,8 +112,8 @@ PRODUCT_PACKAGES += \
     Snap
 
 # Device Settings
-PRODUCT_PACKAGES += \
-    XiaomiParts
+#PRODUCT_PACKAGES += \
+#   XiaomiParts
 
 # Display
 PRODUCT_PACKAGES += \
